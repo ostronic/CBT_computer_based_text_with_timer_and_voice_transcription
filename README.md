@@ -6,12 +6,6 @@ if the time elapses the program automatically haults, the question stops.
 Here is the git repo. link to the project. https://github.com/praiseolotu/PJ-CBT.git
 
 <li>
-Navigate to MultQuestion
-<pre>
-<code>cd MultQuestion</code>
-</pre>
-</li>
-<li>
 Install the requierments
 <pre>
 <code>
